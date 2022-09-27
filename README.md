@@ -6,7 +6,7 @@
    - The third one, dates, consists in their last and/or upcoming concert dates.
    - And the last one, relation, does the link between all the other parts, artists, dates and locations
 ---
-To run programm you need write this command in terminal
+To run project you need use this command in terminal
 ```
 go run cmd/main.go
 ```
